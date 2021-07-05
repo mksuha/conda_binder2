@@ -1,3 +1,3 @@
 # conda_binder2
 basic conda based binder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mksuha/conda_binder2/tree/py37_r353/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mksuha/conda_binder2/HEAD?filepath=tree%2Fpy37_r353)
