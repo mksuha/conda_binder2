@@ -2,4 +2,4 @@
 basic conda based binder
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mksuha/conda_binder2/HEAD?filepath=py37_r353)
+https://mybinder.org/v2/gh/mksuha/conda_binder2.git/py37_r353/
